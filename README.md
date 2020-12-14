@@ -1,5 +1,7 @@
 # Ng5Artists
 
+Angular app for a artist portal
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## Development server
